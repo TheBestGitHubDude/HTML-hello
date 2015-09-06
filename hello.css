@@ -1,0 +1,18 @@
+body{
+  background-image: url(http://rosehallresort.com/var/plain_site/storage/images/media/header-images/internal-header-image/tennis/798-2-eng-US/Tennis_internal_header_image.jpg);
+  background-repeat:no-repeat;
+
+}
+
+.content{
+  color: white;
+  background-color: gold;
+  margin: 0 10% 0 10%;
+
+
+}
+.content h1{
+  text-align: center;
+
+
+}
